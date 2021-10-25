@@ -1,0 +1,3 @@
+[submodule "sass-boilerplate"]
+	path = sass-boilerplate
+	url = https://github.com/KittyGiraudel/sass-boilerplate
